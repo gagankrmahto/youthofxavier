@@ -1,0 +1,21 @@
+
+
+plugins for sublime
+emmet - for autocomplete
+color highlight - for hex codes to color
+
+go to tools --> Command Palette--> package installer --> Search for plugins and download
+
+font --> <script
+      src="https://kit.fontawesome.com/64d58efce2.js"
+      crossorigin="anonymous"
+    ></script>
+
+icons --> https://fontawesome.com/v4.7.0/icons/
+
+icons will work only when internet is connected
+
+images --> https://undraw.co/search
+
+remove.bg --> to remove background
+https://www.imgonline.com.ua/eng/
